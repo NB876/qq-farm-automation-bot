@@ -4,9 +4,9 @@ const process = require('node:process');
  */
 
 const DEFAULT_SYSTEM_CONFIG = {
-    // 🔥 这是正式服地址（别人用的就是这个！）
-    serverUrl: 'wss://gate-nqf.qq.com/prod/ws',
-    // 🔥 这是最新可用版本号（修复版本过低！）
+    // ✅ 正确可解析的服务器地址（原项目可用地址）
+    serverUrl: 'wss://gate-obt.nqf.qq.com/prod/ws',
+    // ✅ 修复版本过低的正确版本号
     clientVersion: '1.12.0.11_20260425',
     platform: 'qq',
     os: 'iOS',
