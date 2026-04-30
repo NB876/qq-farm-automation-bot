@@ -679,7 +679,7 @@ const localSystemConfig = ref({
 
 const defaultSystemConfig = ref({
   serverUrl: 'wss://gate-obt.nqf.qq.com/prod/ws',
-  clientVersion: '1.10.1.16_20260423',
+  clientVersion: '1.12.0.11_20260425',
   platform: 'qq',
   os: 'iOS',
 })
