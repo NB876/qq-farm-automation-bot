@@ -7,7 +7,7 @@ const DEFAULT_SYSTEM_CONFIG = {
     // ✅ 正确可解析的服务器地址（原项目可用地址）
     serverUrl: 'wss://gate-obt.nqf.qq.com/prod/ws',
     // ✅ 修复版本过低的正确版本号
-    clientVersion: '1.12.0.11_20260425',
+    clientVersion: '1.13.0.11_20260514',
     platform: 'qq',
     os: 'iOS',
 };
